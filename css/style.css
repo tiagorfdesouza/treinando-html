@@ -1,0 +1,58 @@
+body{
+    background: rgb(174, 181, 196);
+    margin-left: 40px;
+    margin-right: 50px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+section{
+    font-size: 20px;
+}
+
+h1{
+    color: rgb(22, 22, 21);
+    font-family: fantasy;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 100;
+    
+}
+
+a{
+    color: rgb(13, 13, 14);
+    
+}
+
+.img_tel{
+    width:25px;
+    position: relative;
+    left:1px;
+}
+.img_email{
+    width:25px;
+    position: relative;
+    left:1px;
+}       
+
+.text_email{
+    position: relative;
+    bottom:50px;
+    left:30px;
+}
+.text_tel{
+    position: relative;
+    bottom: 50px;
+    left: 35px;
+}
+.imgs{
+    width: 550px;
+}
+.p_menu{
+    font-family: fantasy;
+    font-size: 30px;
+}
